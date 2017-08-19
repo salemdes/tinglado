@@ -1,11 +1,11 @@
 import React from 'react';
-import { AthletePreview } from './AthletePreview';
+import { PlayPreview } from './PlayPreview';
 
-export const IndexPage = ({ athletes }) => (
+export const IndexPage = ({ plays }) => (
   <div className="home">
-    <div className="athletes-selector">
-      {athletes.map(
-        athleteData => <AthletePreview key={athleteData.id} {...athleteData} />,
+    <div className="plays-selector">
+      {plays.map(
+        playData => <PlayPreview key={playData.id} {...playData} />,
       )}
     </div>
   </div>
