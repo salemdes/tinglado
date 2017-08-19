@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # judo-heroes-2
 
 Universal Javascript sample application with React Router 4 and Express 5 (Enhanced version of https://github.com/lmammino/judo-heroes)
@@ -42,6 +41,3 @@ Available commands to run with `npm run`:
 
  ## License
  Licensed under [MIT License](LICENSE). © Luciano Mammino.
-=======
-# tinglado
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
