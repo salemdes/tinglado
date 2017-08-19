@@ -18,7 +18,7 @@ export const TheatrePlaysMenu = ({ theatrePlays }) => (
   <nav className="theatrePlays-menu">
     {
       theatrePlays.map(theatrePlay =>
-        <TheatrePlayMenuLink key={theatrePlay.id} id={theatrePlay.id} to={`/theatrePlay/${theatrePlay.id}`} label={shortName(theatrePlay.name)} />,
+        <TheatrePlayMenuLink key={theatrePlay.id} id={theatrePlay.id} to={`/theatrePlay/${theatrePlay.id}`} label={theatrePlay.name} />,
       )
     }
   </nav>

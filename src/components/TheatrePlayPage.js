@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { TheatrePlaysMenu } from './TheatrePlaysMenu';
-import { Medal } from './Medal';
+import { Award } from './Award';
 import { Flag } from './Flag';
 
 export const TheatrePlayPage = ({ theatrePlay, theatrePlays }) => {
@@ -12,19 +12,14 @@ export const TheatrePlayPage = ({ theatrePlay, theatrePlays }) => {
       <div className="theatrePlay">
         <header style={headerStyle} />
         <div className="picture-container">
-          <img alt={`${theatrePlay.name}'s profile`} src={`/img/${theatrePlay.image}`} />
+          <img alt={`${theatrePlay.name}`} src={`/img/${theatrePlay.image}`} />
           <h2 className="name">{theatrePlay.name}</h2>
         </div>
-        <section className="description">
-          Olympic medalist from
-          &nbsp;<strong><Flag {...theatrePlay.country} showName="true" /></strong>,
-          born in {theatrePlay.birth}
-          (Find out more on <a href={theatrePlay.link}>Wikipedia</a>).
-        </section>
-        <section className="medals">
-          <p>Winner of <strong>{theatrePlay.medals.length}</strong> medals:</p>
+        <section className="description">{theatrePlay.description}</section>
+        <section className="awards">
+          <p>Winner of <strong>{theatrePlay.awards.length}</strong> awards:</p>
           <ul>{
-            theatrePlay.medals.map(medal => <Medal key={medal.id} {...medal} />)
+            theatrePlay.awards.map(award => <Award key={award.id} {...award} />)
           }</ul>
         </section>
       </div>

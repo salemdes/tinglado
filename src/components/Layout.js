@@ -5,15 +5,11 @@ export const Layout = props => (
   <div className="app-container">
     <header>
       <Link to="/">
-        <img className="logo" src="/img/logo-judo-heroes.png" alt="Judo Heroes logo" />
+        <img className="logo" src="/img/tinglado-logo.png" alt="Teatro El Tinglado" />
       </Link>
     </header>
     <div className="app-content">{props.children}</div>
     <footer>
-      <p>
-        This is a demo app to showcase <strong>universal Javascript</strong>
-        with <strong>React</strong> and <strong>Express</strong>.
-      </p>
     </footer>
   </div>
 );

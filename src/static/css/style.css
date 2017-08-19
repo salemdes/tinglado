@@ -26,8 +26,8 @@ header {
 header .logo {
   display: block;
   margin: 0 auto;
-  max-width: 400px;
-  width: 100%;
+  width: 109px;
+  height: 135px;
 }
 
 footer {
@@ -101,7 +101,7 @@ footer p {
   width: 100%;
 }
 
-.home .theatrePlays-selector .theatrePlay-preview .medals-count {
+.home .theatrePlays-selector .theatrePlay-preview .awards-count {
   background: #fff;
   border-radius: 2px;
   display: inline-block;
@@ -178,20 +178,20 @@ nav.theatrePlays-menu a.active {
 }
 
 .theatrePlay .description,
-.theatrePlay .medals {
+.theatrePlay .awards {
   font-size: 1.6em;
   padding: 1em;
 }
 
-.theatrePlay .medals p {
+.theatrePlay .awards p {
   font-size: 1em;
 }
 
-.theatrePlay .medals li {
+.theatrePlay .awards li {
   list-style: none;
 }
 
-.theatrePlay .medals .symbol {
+.theatrePlay .awards .symbol {
   border-radius: 50%;
   display: inline-block;
   font-size: .8em;
@@ -202,19 +202,19 @@ nav.theatrePlays-menu a.active {
   width: 1.6em;
 }
 
-.theatrePlay .medals .symbol.symbol-G {
+.theatrePlay .awards .symbol.symbol-G {
   color: #daa520;
   background-color: #fff6de;
   border: 2px solid #daa520;
 }
 
-.theatrePlay .medals .symbol.symbol-S {
+.theatrePlay .awards .symbol.symbol-S {
   color: #383738;
   background-color: #b9b5b5;
   border: 2px solid #383738;
 }
 
-.theatrePlay .medals .symbol.symbol-B {
+.theatrePlay .awards .symbol.symbol-B {
   color: #6b1919;
   background-color: #ea96a1;
   border: 2px solid #6E1924;
