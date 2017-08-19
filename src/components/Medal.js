@@ -1,6 +1,6 @@
-/* import React from 'react';
+import React from 'react';
 
-(export const medalTypes = {
+export const medalTypes = {
   G: 'Gold',
   S: 'Silver',
   B: 'Bronze',
@@ -19,7 +19,6 @@ export const Medal = props => (
     <span className="event"> ({props.event})</span>
     <span className="category"> {props.category}</span>
   </li>
-); 
-
+);
 
 export default Medal;
