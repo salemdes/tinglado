@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-export const AthletePreview = props => (
-  <Link to={`/athlete/${props.id}`}>
-    <div className="athlete-preview">
+export const TheatrePlayPreview = props => (
+  <Link to={`/theatrePlay/${props.id}`}>
+    <div className="theatrePlay-preview">
       <img src={`img/${props.image}`} alt={`${props.name}'s profile`} />
       <h2 className="name">{props.name}</h2>
       <span className="medals-count">
@@ -13,4 +13,4 @@ export const AthletePreview = props => (
   </Link>
 );
 
-export default AthletePreview;
+export default TheatrePlayPreview;

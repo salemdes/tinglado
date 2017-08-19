@@ -1,4 +1,4 @@
-const athletes = [
+const theatrePlays = [
   {
     id: 'ilias-iliadis',
     name: 'Ilias Iliadis',
@@ -178,4 +178,4 @@ const athletes = [
   },
 ];
 
-export default athletes;
+export default theatrePlays;

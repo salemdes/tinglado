@@ -61,13 +61,13 @@ footer p {
   font-weight: bold;
 }
 
-.home .athletes-selector {
+.home .theatrePlays-selector {
   clear: both;
   padding: 2em;
   text-align: center;
 }
 
-.home .athletes-selector .athlete-preview {
+.home .theatrePlays-selector .theatrePlay-preview {
   border: 1px solid #ccc;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
   display: inline-block;
@@ -79,16 +79,16 @@ footer p {
   width: 100%;
 }
 
-.home .athletes-selector .athlete-preview:hover {
+.home .theatrePlays-selector .theatrePlay-preview:hover {
   transform: scale(1.1);
 }
 
-.home .athletes-selector .athlete-preview img {
+.home .theatrePlays-selector .theatrePlay-preview img {
   margin: 0;
   width: 100%;
 }
 
-.home .athletes-selector .athlete-preview .name {
+.home .theatrePlays-selector .theatrePlay-preview .name {
   color: #030303;
   display: inline-block;
   font-size: 1.6em;
@@ -101,7 +101,7 @@ footer p {
   width: 100%;
 }
 
-.home .athletes-selector .athlete-preview .medals-count {
+.home .theatrePlays-selector .theatrePlay-preview .medals-count {
   background: #fff;
   border-radius: 2px;
   display: inline-block;
@@ -115,7 +115,7 @@ footer p {
   vertical-align: middle;
 }
 
-nav.atheletes-menu {
+nav.theatrePlays-menu {
   margin: 0 auto;
   max-width: 800px;
   padding: 2em;
@@ -123,17 +123,17 @@ nav.atheletes-menu {
   width: 100%;
 }
 
-nav.atheletes-menu a {
+nav.theatrePlays-menu a {
   font-size: 1.6em;
   margin: 0 1em 1em 0;
 }
 
-nav.atheletes-menu a.active {
+nav.theatrePlays-menu a.active {
   color: #030303;
   text-decoration: none;
 }
 
-.athlete {
+.theatrePlay {
   border: 1px solid #ccc;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
   margin: 0 auto;
@@ -141,7 +141,7 @@ nav.atheletes-menu a.active {
   width: 100%;
 }
 
-.athlete header {
+.theatrePlay header {
   background: #ccc;
   background-position: center center;
   background-repeat: no-repeat;
@@ -150,12 +150,12 @@ nav.atheletes-menu a.active {
   height: 200px;
 }
 
-.athlete .picture-container {
+.theatrePlay .picture-container {
   margin: -160px 0 0 0;
   padding: 0 1em 0 1em;
 }
 
-.athlete .picture-container img {
+.theatrePlay .picture-container img {
   border-radius: 4px;
   border: 8px solid #fff;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
@@ -164,34 +164,34 @@ nav.atheletes-menu a.active {
   width: 200px;
 }
 
-.athlete .picture-container h2 {
+.theatrePlay .picture-container h2 {
   display: inline;
   font-size: 3em;
   padding: 0 0 0 .5em;
   width: auto;
 }
 
-.athlete .flag .icon {
+.theatrePlay .flag .icon {
   display: inline-block;
   padding-bottom: .1em;
   width: auto;
 }
 
-.athlete .description,
-.athlete .medals {
+.theatrePlay .description,
+.theatrePlay .medals {
   font-size: 1.6em;
   padding: 1em;
 }
 
-.athlete .medals p {
+.theatrePlay .medals p {
   font-size: 1em;
 }
 
-.athlete .medals li {
+.theatrePlay .medals li {
   list-style: none;
 }
 
-.athlete .medals .symbol {
+.theatrePlay .medals .symbol {
   border-radius: 50%;
   display: inline-block;
   font-size: .8em;
@@ -202,19 +202,19 @@ nav.atheletes-menu a.active {
   width: 1.6em;
 }
 
-.athlete .medals .symbol.symbol-G {
+.theatrePlay .medals .symbol.symbol-G {
   color: #daa520;
   background-color: #fff6de;
   border: 2px solid #daa520;
 }
 
-.athlete .medals .symbol.symbol-S {
+.theatrePlay .medals .symbol.symbol-S {
   color: #383738;
   background-color: #b9b5b5;
   border: 2px solid #383738;
 }
 
-.athlete .medals .symbol.symbol-B {
+.theatrePlay .medals .symbol.symbol-B {
   color: #6b1919;
   background-color: #ea96a1;
   border: 2px solid #6E1924;
