@@ -1,6 +1,7 @@
 import React from 'react';
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { PlayPreview } from './PlayPreview';
 
 export const IndexPage = ({ plays }) => (
@@ -11,6 +12,8 @@ export const IndexPage = ({ plays }) => (
 =======
 =======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
+=======
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 import { AthletePreview } from './AthletePreview';
 
 export const IndexPage = ({ athletes }) => (
@@ -19,6 +22,9 @@ export const IndexPage = ({ athletes }) => (
       {athletes.map(
         athleteData => <AthletePreview key={athleteData.id} {...athleteData} />,
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
+=======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
