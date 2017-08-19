@@ -61,13 +61,21 @@ footer p {
   font-weight: bold;
 }
 
+<<<<<<< HEAD
 .home .plays-selector {
+=======
+.home .athletes-selector {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   clear: both;
   padding: 2em;
   text-align: center;
 }
 
+<<<<<<< HEAD
 .home .plays-selector .play-preview {
+=======
+.home .athletes-selector .athlete-preview {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   border: 1px solid #ccc;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
   display: inline-block;
@@ -79,16 +87,28 @@ footer p {
   width: 100%;
 }
 
+<<<<<<< HEAD
 .home .plays-selector .play-preview:hover {
   transform: scale(1.1);
 }
 
 .home .plays-selector .play-preview img {
+=======
+.home .athletes-selector .athlete-preview:hover {
+  transform: scale(1.1);
+}
+
+.home .athletes-selector .athlete-preview img {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   margin: 0;
   width: 100%;
 }
 
+<<<<<<< HEAD
 .home .plays-selector .play-preview .name {
+=======
+.home .athletes-selector .athlete-preview .name {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   color: #030303;
   display: inline-block;
   font-size: 1.6em;
@@ -101,7 +121,11 @@ footer p {
   width: 100%;
 }
 
+<<<<<<< HEAD
 .home .plays-selector .play-preview .medals-count {
+=======
+.home .athletes-selector .athlete-preview .medals-count {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   background: #fff;
   border-radius: 2px;
   display: inline-block;
@@ -115,7 +139,11 @@ footer p {
   vertical-align: middle;
 }
 
+<<<<<<< HEAD
 nav.plays-menu {
+=======
+nav.atheletes-menu {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   margin: 0 auto;
   max-width: 800px;
   padding: 2em;
@@ -123,17 +151,29 @@ nav.plays-menu {
   width: 100%;
 }
 
+<<<<<<< HEAD
 nav.plays-menu a {
+=======
+nav.atheletes-menu a {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   font-size: 1.6em;
   margin: 0 1em 1em 0;
 }
 
+<<<<<<< HEAD
 nav.plays-menu a.active {
+=======
+nav.atheletes-menu a.active {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   color: #030303;
   text-decoration: none;
 }
 
+<<<<<<< HEAD
 .play {
+=======
+.athlete {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   border: 1px solid #ccc;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
   margin: 0 auto;
@@ -141,7 +181,11 @@ nav.plays-menu a.active {
   width: 100%;
 }
 
+<<<<<<< HEAD
 .play header {
+=======
+.athlete header {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   background: #ccc;
   background-position: center center;
   background-repeat: no-repeat;
@@ -150,12 +194,20 @@ nav.plays-menu a.active {
   height: 200px;
 }
 
+<<<<<<< HEAD
 .play .picture-container {
+=======
+.athlete .picture-container {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   margin: -160px 0 0 0;
   padding: 0 1em 0 1em;
 }
 
+<<<<<<< HEAD
 .play .picture-container img {
+=======
+.athlete .picture-container img {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   border-radius: 4px;
   border: 8px solid #fff;
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
@@ -164,25 +216,39 @@ nav.plays-menu a.active {
   width: 200px;
 }
 
+<<<<<<< HEAD
 .play .picture-container h2 {
+=======
+.athlete .picture-container h2 {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   display: inline;
   font-size: 3em;
   padding: 0 0 0 .5em;
   width: auto;
 }
 
+<<<<<<< HEAD
 .play .flag .icon {
+=======
+.athlete .flag .icon {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   display: inline-block;
   padding-bottom: .1em;
   width: auto;
 }
 
+<<<<<<< HEAD
 .play .description,
 .play .medals {
+=======
+.athlete .description,
+.athlete .medals {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   font-size: 1.6em;
   padding: 1em;
 }
 
+<<<<<<< HEAD
 .play .medals p {
   font-size: 1em;
 }
@@ -192,6 +258,17 @@ nav.plays-menu a.active {
 }
 
 .play .medals .symbol {
+=======
+.athlete .medals p {
+  font-size: 1em;
+}
+
+.athlete .medals li {
+  list-style: none;
+}
+
+.athlete .medals .symbol {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   border-radius: 50%;
   display: inline-block;
   font-size: .8em;
@@ -202,19 +279,31 @@ nav.plays-menu a.active {
   width: 1.6em;
 }
 
+<<<<<<< HEAD
 .play .medals .symbol.symbol-G {
+=======
+.athlete .medals .symbol.symbol-G {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   color: #daa520;
   background-color: #fff6de;
   border: 2px solid #daa520;
 }
 
+<<<<<<< HEAD
 .play .medals .symbol.symbol-S {
+=======
+.athlete .medals .symbol.symbol-S {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   color: #383738;
   background-color: #b9b5b5;
   border: 2px solid #383738;
 }
 
+<<<<<<< HEAD
 .play .medals .symbol.symbol-B {
+=======
+.athlete .medals .symbol.symbol-B {
+>>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   color: #6b1919;
   background-color: #ea96a1;
   border: 2px solid #6E1924;
