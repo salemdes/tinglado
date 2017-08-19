@@ -63,11 +63,7 @@ footer p {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .home .plays-selector {
-=======
-.home .athletes-selector {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .home .athletes-selector {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -81,11 +77,7 @@ footer p {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .home .plays-selector .play-preview {
-=======
-.home .athletes-selector .athlete-preview {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .home .athletes-selector .athlete-preview {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -105,7 +97,6 @@ footer p {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .home .plays-selector .play-preview:hover {
   transform: scale(1.1);
 }
@@ -114,17 +105,12 @@ footer p {
 =======
 =======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
-=======
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 .home .athletes-selector .athlete-preview:hover {
   transform: scale(1.1);
 }
 
 .home .athletes-selector .athlete-preview img {
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
-=======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -134,11 +120,7 @@ footer p {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .home .plays-selector .play-preview .name {
-=======
-.home .athletes-selector .athlete-preview .name {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .home .athletes-selector .athlete-preview .name {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -159,11 +141,7 @@ footer p {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .home .plays-selector .play-preview .medals-count {
-=======
-.home .athletes-selector .athlete-preview .medals-count {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .home .athletes-selector .athlete-preview .medals-count {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -185,11 +163,7 @@ footer p {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 nav.plays-menu {
-=======
-nav.atheletes-menu {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 nav.atheletes-menu {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -205,11 +179,7 @@ nav.atheletes-menu {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 nav.plays-menu a {
-=======
-nav.atheletes-menu a {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 nav.atheletes-menu a {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -222,11 +192,7 @@ nav.atheletes-menu a {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 nav.plays-menu a.active {
-=======
-nav.atheletes-menu a.active {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 nav.atheletes-menu a.active {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -239,11 +205,7 @@ nav.atheletes-menu a.active {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .play {
-=======
-.athlete {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .athlete {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -259,11 +221,7 @@ nav.atheletes-menu a.active {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .play header {
-=======
-.athlete header {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .athlete header {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -280,11 +238,7 @@ nav.atheletes-menu a.active {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .play .picture-container {
-=======
-.athlete .picture-container {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .athlete .picture-container {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -297,11 +251,7 @@ nav.atheletes-menu a.active {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .play .picture-container img {
-=======
-.athlete .picture-container img {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .athlete .picture-container img {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -318,11 +268,7 @@ nav.atheletes-menu a.active {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .play .picture-container h2 {
-=======
-.athlete .picture-container h2 {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .athlete .picture-container h2 {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -337,11 +283,7 @@ nav.atheletes-menu a.active {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .play .flag .icon {
-=======
-.athlete .flag .icon {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .athlete .flag .icon {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -355,13 +297,8 @@ nav.atheletes-menu a.active {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .play .description,
 .play .medals {
-=======
-.athlete .description,
-.athlete .medals {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .athlete .description,
 .athlete .medals {
@@ -376,7 +313,6 @@ nav.atheletes-menu a.active {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .play .medals p {
   font-size: 1em;
 }
@@ -389,8 +325,6 @@ nav.atheletes-menu a.active {
 =======
 =======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
-=======
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 .athlete .medals p {
   font-size: 1em;
 }
@@ -401,9 +335,6 @@ nav.atheletes-menu a.active {
 
 .athlete .medals .symbol {
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
-=======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -419,11 +350,7 @@ nav.atheletes-menu a.active {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .play .medals .symbol.symbol-G {
-=======
-.athlete .medals .symbol.symbol-G {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .athlete .medals .symbol.symbol-G {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -437,11 +364,7 @@ nav.atheletes-menu a.active {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .play .medals .symbol.symbol-S {
-=======
-.athlete .medals .symbol.symbol-S {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .athlete .medals .symbol.symbol-S {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -455,11 +378,7 @@ nav.atheletes-menu a.active {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 .play .medals .symbol.symbol-B {
-=======
-.athlete .medals .symbol.symbol-B {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 .athlete .medals .symbol.symbol-B {
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99

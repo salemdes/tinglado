@@ -4,7 +4,6 @@ import { Layout } from './Layout';
 import { IndexPage } from './IndexPage';
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 import { PlayPage } from './PlayPage';
 import { NotFoundPage } from './NotFoundPage';
 import plays from '../data/plays';
@@ -21,8 +20,6 @@ const renderPlay = ({ match, staticContext }) => {
 =======
 =======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
-=======
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 import { AthletePage } from './AthletePage';
 import { NotFoundPage } from './NotFoundPage';
 import athletes from '../data/athletes';
@@ -37,9 +34,6 @@ const renderAthlete = ({ match, staticContext }) => {
 
   return <AthletePage athlete={athlete} athletes={athletes} />;
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
-=======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
@@ -51,11 +45,7 @@ export const App = () => (
       <Route exact path="/" render={renderIndex} />
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
       <Route exact path="/play/:id" render={renderPlay} />
-=======
-      <Route exact path="/athlete/:id" render={renderAthlete} />
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
       <Route exact path="/athlete/:id" render={renderAthlete} />
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
