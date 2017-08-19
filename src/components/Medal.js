@@ -1,13 +1,7 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 /* import React from 'react';
 
 (export const medalTypes = {
-=======
-import React from 'react';
-
-export const medalTypes = {
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 import React from 'react';
 
@@ -32,12 +26,8 @@ export const Medal = props => (
     <span className="category"> {props.category}</span>
   </li>
 <<<<<<< HEAD
-<<<<<<< HEAD
 ); 
 
-=======
-);
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
 =======
 );
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99

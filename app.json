@@ -1,20 +1,14 @@
 {
 <<<<<<< HEAD
-<<<<<<< HEAD
   "name": "Judo Heroes 2",
   "description": "A sample Universal JavaScript application with React and Express",
   "repository": "https://github.com/lmammino/judo-heroes-2",
   "logo": "https://raw.githubusercontent.com/lmammino/judo-heroes-2/master/src/static/img/logo-judo-heroes.png",
 =======
-=======
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   "name": "Tinglado",
   "description": "",
   "repository": "https://github.com/salemdes/tinglado",
   "logo": "http://www.teatroeltinglado.com.uy/themes/default/images/logo.png",
-<<<<<<< HEAD
->>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
-=======
 >>>>>>> 925698b6dd729f1e9a5021f8c75507a67c202a99
   "keywords": ["node", "express", "react", "universal", "javascript"],
   "env": {
