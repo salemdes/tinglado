@@ -249,3 +249,61 @@ nav.theatrePlays-menu a.active {
 #abar a:hover {
   text-decoration: underline;
 }
+
+
+/* Create two equal columns that floats next to each other */
+.theatrePlay .info-column {
+    float: left;
+}
+
+.theatrePlay .description {
+    width: 70%;
+}
+
+.theatrePlay .details {
+    width: 30%;
+}
+
+.theatrePlay .cast {
+    width: 50%;
+}
+
+.theatrePlay .creative {
+    width: 50%;
+}
+
+.theatrePlay .left {
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+
+.theatrePlay .right {
+    text-align: right;
+}
+
+/* Clear floats after the columns */
+.cast-and-creative:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Clear floats after the columns */
+.info:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 800px) {
+    .info-column {
+        width: 100%;
+    }
+}
+
+.theatrePlay .warning {
+    background-color: red;
+    color: white;
+}
